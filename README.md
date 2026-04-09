@@ -1,16 +1,26 @@
-## Hi there 👋
+# Guilherme 💻
+## hello guys who make the program, Welcome to my Github 👋 ! ! !
 
-<!--
-**guizi1/guizi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img loading="lazy" src="https://blog.b2bstack.com.br/wp-content/uploads/2022/05/b2b-stack-blog-conheca-as-5-linguagens-de-programacao-mais-usadas-nos-jogos-.jpg.webp" width="1024" height="200">
 
-Here are some ideas to get you started:
+## Linguagens e ferramentas que uso no dia a dia:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+
+## 
+
+- 📡 Atualmente trabalhando como Suporte nivel 2 de redes e na infraestrutura
+- 💻 Estou cursando graduação em Ciência da Computação | UCB - Universidade Católica de Brasília
+- 🔒 Qualificação em Cybersegurança | Anhanguera
+- 🎲 Técnico em Ciência de Dados | EFG - Escola do Futuro de Goiás
+- 👩‍💻 Estudando para trabalhar na area de cibersegurança e programação
+
+
+## Contato:
+<a href="https://www.linkedin.com/in/luís-guilherme-2b0b11353/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<div>
+<a href="https://github.com/guizi1">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kantxlx&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=kantxlx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
