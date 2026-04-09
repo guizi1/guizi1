@@ -23,7 +23,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/179/179330.png" height="28">
 </a>
 
-<a href="mailto:luisguidvg1225@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=luisguidvg1225@gmail.com" target="_blank">
   <img loading="lazy" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
   
