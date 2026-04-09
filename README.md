@@ -20,8 +20,18 @@
 
 ## Contato:
 
- <a href="mailto:luisguidvg1225@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>     <a href="https://wa.me/5561984082217" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>     <a href="https://www.linkedin.com/in/luís-guilherme-2b0b11353/" target="_blank"><img loading="lazy" src="https://static.vecteezy.com/system/resources/previews/023/986/970/original/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+<a href="https://www.linkedin.com/in/luís-guilherme-2b0b11353/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/179/179330.png" height="28">
 </a>
+
+<a href="mailto:luisguidvg1225@gmail.com">
+  <img loading="lazy" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+  
+<a href="https://wa.me/5561984082217" target="_blank">
+  <img loading="lazy" src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+
 <div>
 <a href="https://github.com/guizi1">
 </div>
